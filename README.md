@@ -3,7 +3,7 @@
 ---
 ## 🌟 Featured Projects
 
-| Project | about it | Used tech |
+| Project | About it | Used tech |
 | -------- | -------- | -------- |
 |[PPM Graphics Engine](https://github.com/Adarsh300a/PPM_Image_Renderer) | A lightweight, terminal-based graphics engine built from scratch | C++ |
 <!--| Row 2, Col 1 | A lightweight, terminal-based graphics engine built from scratch in pure C++ | Row 2, Col 3 | -->
