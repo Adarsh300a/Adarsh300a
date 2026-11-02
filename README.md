@@ -7,6 +7,7 @@
 | -------- | -------- | -------- |
 |[PPM Graphics Engine](https://github.com/Adarsh300a/PPM_Image_Renderer) | A lightweight, terminal-based graphics engine built from scratch | C++ |
 |[Color-Scheme-Switcher](https://github.com/Adarsh300a/Color-Scheme-Switcher)| change the background color by clicking on different color boxes | Javascript, HTML, CSS |
+|[Quantum Attendance Helper 🎓](https://github.com/Adarsh300a/quantum-attendance-helper)| A lightweight Chrome extension that helps Quantum University students track their attendance | Javascript, CSS, Manifest V3|
 <!--| Row 2, Col 1 | A lightweight, terminal-based graphics engine built from scratch in pure C++ | Row 2, Col 3 | -->
 <!--| Row 2, Col 1 | A lightweight, terminal-based graphics engine built from scratch in pure C++ | Row 2, Col 3 | -->
 
